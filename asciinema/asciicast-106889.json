@@ -1,0 +1,350 @@
+{
+  "stdout": [
+    [
+      0.434191,
+      "d"
+    ],
+    [
+      0.067544,
+      "i"
+    ],
+    [
+      0.09199,
+      "s"
+    ],
+    [
+      0.050367,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                    \r \r"
+    ],
+    [
+      4.8e-05,
+      "\u001b]2;alexandrec@alexandrec-theodo: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.079662,
+      "k"
+    ],
+    [
+      0.061296,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[01;34m~\u001b[00m   \r\n\u001b[37m▶ \u001b[K\u001b[96C\u001b[1A  \u001b[01;31m\u001b[00m\u001b[1B\u001b[98D"
+    ],
+    [
+      0.000144,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      6.6e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.001931,
+      "d"
+    ],
+    [
+      3.4e-05,
+      "\bdi"
+    ],
+    [
+      6.2e-05,
+      "s"
+    ],
+    [
+      7.9e-05,
+      "k"
+    ],
+    [
+      0.678159,
+      "u"
+    ],
+    [
+      0.140703,
+      "t"
+    ],
+    [
+      0.073723,
+      "i"
+    ],
+    [
+      0.100397,
+      "l"
+    ],
+    [
+      0.166101,
+      " "
+    ],
+    [
+      0.10383,
+      "l"
+    ],
+    [
+      0.072232,
+      "i"
+    ],
+    [
+      0.052148,
+      "s"
+    ],
+    [
+      0.127311,
+      "t"
+    ],
+    [
+      0.476232,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      7.9e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.001416,
+      "\u001b]2;diskutil list\u0007\u001b]1;diskutil\u0007"
+    ],
+    [
+      0.067274,
+      "/dev/disk0 (internal, physical):\r\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\r\n   0:      GUID_partition_scheme                        *121.3 GB   disk0\r\n"
+    ],
+    [
+      0.002948,
+      "   1:                        EFI EFI                     209.7 MB   disk0s1\r\n"
+    ],
+    [
+      0.002047,
+      "   2:          Apple_CoreStorage Macintosh HD            120.5 GB   disk0s2\r\n"
+    ],
+    [
+      0.001046,
+      "   3:                 Apple_Boot Recovery HD             650.0 MB   disk0s3\r\n"
+    ],
+    [
+      0.001083,
+      "\r\n"
+    ],
+    [
+      0.002189,
+      "/dev/disk1 (internal, virtual):\r\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\r\n   0:                            Macintosh HD           +120.1 GB   disk1\r\n"
+    ],
+    [
+      0.002008,
+      "                                 Logical Volume on disk0s2\r\n                                 0C4F02B1-01CB-432B-8D8B-00D2E2F90A65\r\n                                 Unencrypted\r\n\r\n"
+    ],
+    [
+      0.002206,
+      "/dev/disk2 (internal, physical):\r\n   #:                       TYPE NAME                    SIZE       IDENTIFIER\r\n   0:                                                   *15.9 GB    disk2\r\n\r\n"
+    ],
+    [
+      0.002844,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                    \r \r"
+    ],
+    [
+      0.000135,
+      "\u001b]2;alexandrec@alexandrec-theodo: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.133602,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[01;34m~\u001b[00m   \r\n\u001b[37m▶ \u001b[K\u001b[96C\u001b[1A  \u001b[01;31m\u001b[00m\u001b[1B\u001b[98D"
+    ],
+    [
+      0.000101,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      7.1e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.019179,
+      "d"
+    ],
+    [
+      0.140724,
+      "\bdd"
+    ],
+    [
+      0.080049,
+      " "
+    ],
+    [
+      0.73298,
+      "i"
+    ],
+    [
+      0.110886,
+      "f"
+    ],
+    [
+      0.195205,
+      "="
+    ],
+    [
+      3.415737,
+      "\u001b[7m/Users/alexandrec/Downloads/retropie-4.1-rpi2_rpi3.img\u001b[27m"
+    ],
+    [
+      0.001589,
+      "\u001b[54D\u001b[27m/\u001b[27mU\u001b[27ms\u001b[27me\u001b[27mr\u001b[27ms\u001b[27m/\u001b[27ma\u001b[27ml\u001b[27me\u001b[27mx\u001b[27ma\u001b[27mn\u001b[27md\u001b[27mr\u001b[27me\u001b[27mc\u001b[27m/\u001b[27mD\u001b[27mo\u001b[27mw\u001b[27mn\u001b[27ml\u001b[27mo\u001b[27ma\u001b[27md\u001b[27ms\u001b[27m/\u001b[27mr\u001b[27me\u001b[27mt\u001b[27mr\u001b[27mo\u001b[27mp\u001b[27mi\u001b[27me\u001b[27m-\u001b[27m4\u001b[27m.\u001b[27m1\u001b[27m-\u001b[27mr\u001b[27mp\u001b[27mi\u001b[27m2\u001b[27m_\u001b[27mr\u001b[27mp\u001b[27mi\u001b[27m3\u001b[27m.\u001b[27mi\u001b[27mm\u001b[27mg\u001b[7m \u001b[27m"
+    ],
+    [
+      1.289629,
+      "\b\u001b[27m  "
+    ],
+    [
+      0.929081,
+      "o"
+    ],
+    [
+      0.091847,
+      "f"
+    ],
+    [
+      0.30362,
+      "="
+    ],
+    [
+      0.798417,
+      "/"
+    ],
+    [
+      0.143778,
+      "d"
+    ],
+    [
+      0.557144,
+      "e"
+    ],
+    [
+      0.184647,
+      "v"
+    ],
+    [
+      0.125326,
+      "/"
+    ],
+    [
+      0.258754,
+      "d"
+    ],
+    [
+      0.096242,
+      "i"
+    ],
+    [
+      0.088139,
+      "s"
+    ],
+    [
+      0.107895,
+      "k"
+    ],
+    [
+      0.417566,
+      "2"
+    ],
+    [
+      0.755022,
+      " "
+    ],
+    [
+      0.337343,
+      "b"
+    ],
+    [
+      0.190882,
+      "s"
+    ],
+    [
+      0.540696,
+      "="
+    ],
+    [
+      0.886516,
+      "1"
+    ],
+    [
+      0.220804,
+      "m"
+    ],
+    [
+      0.49975,
+      "\u001b[81D"
+    ],
+    [
+      0.467248,
+      "sdd if=/Users/alexandrec/Downloads/retropie-4.1-rpi2_rpi3.img  of=/dev/disk2 bs=1m\u001b[81D"
+    ],
+    [
+      0.124995,
+      "\bsudd if=/Users/alexandrec/Downloads/retropie-4.1-rpi2_rpi3.img  of=/dev/disk2 bs=1m\u001b[81D"
+    ],
+    [
+      0.111135,
+      "\u001b[2Cd if=/Users/alexandrec/Downloads/retropie-4.1-rpi2_rpi3.img  of=/dev/disk2 bs=1m\u001b[81D"
+    ],
+    [
+      0.103915,
+      "odd if=/Users/alexandrec/Downloads/retropie-4.1-rpi2_rpi3.img  of=/dev/disk2 bs=1m\u001b[81D"
+    ],
+    [
+      0.114686,
+      " dd if=/Users/alexandrec/Downloads/retropie-4.1-rpi2_rpi3.img  of=/dev/disk2 bs=1m\u001b[81D"
+    ],
+    [
+      0.589524,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      9e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.001152,
+      "\u001b]2;sudo dd if=/Users/alexandrec/Downloads/retropie-4.1-rpi2_rpi3.img  bs=1m\u0007\u001b]1;dd\u0007"
+    ],
+    [
+      0.026868,
+      "Password:"
+    ],
+    [
+      1.449294,
+      "\r\n"
+    ],
+    [
+      1.280947,
+      "1981+0 records in\r\n1981+0 records out\r\n2077229056 bytes transferred in 891.160251 secs (2330927 bytes/sec)\r\n"
+    ],
+    [
+      0.194374,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                    \r \r"
+    ],
+    [
+      0.000316,
+      "\u001b]2;alexandrec@alexandrec-theodo: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.18747,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n\u001b[01;34m~\u001b[00m   \r\n\u001b[37m▶ \u001b[K\u001b[96C\u001b[1A  \u001b[01;31m\u001b[00m\u001b[1B\u001b[98D"
+    ],
+    [
+      0.000234,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      6.6e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      11.080067,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ],
+  "title": null,
+  "width": 101,
+  "duration": 33.285028,
+  "version": 1,
+  "height": 29,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/local/bin/zsh"
+  },
+  "command": null
+}
